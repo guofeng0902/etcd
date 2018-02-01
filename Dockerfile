@@ -1,3 +1,3 @@
 FROM golang
-copy custompathtest.txt ./
+copy ./custompathtest/custompathtest.txt ./
 
