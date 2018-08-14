@@ -33,3 +33,4 @@ func TestMain(t *testing.T) {
 	go main()
 	<-notifier
 }
+#test
